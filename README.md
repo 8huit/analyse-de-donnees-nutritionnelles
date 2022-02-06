@@ -1,15 +1,13 @@
 # Analysez des données nutritionnelles
+Projet d'analyse de données alimentaires provenant d'Open Food Facts
 
-## Objectif
+## Description
+Ce projet a été réalisé dans le cadre de la formation Data Scientist par Openclassrooms/Centrale-Supelec. Il consiste à effectuer un nettoyage et une analyse exploratoire de données alimentaires (320 000 observations, 162 variables).
 
-Faire une analyse de données alimentaires provenant d'Open Food Facts
+## Contenu
+├── P2_01_Analysez-des-donnees-nutritionnelles_huiguan.pdf
+├── P2_02_donnees_nutritionnelles_nettoyage.ipynb
+├── P2_03_donnees_nutritionnelles_exploration.ipynb
+└── README.md
 
-
-## More resources
-
-Point interested users to any related literature and/or documentation.
-
-
-## A propos
-
-Projet d'étude dans le cadre de la formation Datascientist-Openclassrooms-Centrale-Supelec
+Les notebooks ont été créés avec Jupyter Notebook (Python 3.8).
